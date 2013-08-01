@@ -1,3 +1,6 @@
+/*
+ * if文使ってません
+ */
 #include <string>
 #include <functional>
 
